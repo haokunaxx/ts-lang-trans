@@ -35,7 +35,7 @@ KEY=你的 Key
 ## 配置项
 ### localLang 本地语言，首选语言
 
-支持的语言：（https://ai.youdao.com/DOCSIRMA/html/trans/api/plwbfy/index.html）
+支持的语言：https://ai.youdao.com/DOCSIRMA/html/trans/api/plwbfy/index.html 
 
 常用： 
 - zh-CHS 简体中文
